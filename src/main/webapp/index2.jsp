@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Git Test 3 index2.jsp 추가 김은진.
+Git Test 3 index2.jsp 추가 김은진.,
 </body>
 </html>
